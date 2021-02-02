@@ -1,1 +1,3 @@
 ## Please list additional packages with version numbers
+cx_Oracle
+pandas
